@@ -32,8 +32,8 @@ def cross_entropy(dictP, dictQ, original_action):
     # converting Q-values into probability distribution        
     Q_p = your_softmax(np.asarray(Q_p))
     Q_q = your_softmax(np.asarray(Q_q))
-    # KL = entropy(Q_q, Q_p)
-    KL = wasserstein_distance(Q_q, Q_p)
+    KL = entropy(Q_q, Q_p)
+    # KL = wasserstein_distance(Q_q, Q_p)
     #return (KL)/(KL + 1.)
     return 1./(KL + 1.)
 
