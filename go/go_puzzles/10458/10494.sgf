@@ -1,0 +1,33 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10494]
+GN[AGA Problems of the Week - 12. Practical Endgame I]
+AW[bc][bb][cb][da][eb][ec][fc][fd][ff][eg]
+AB[bd][cd][cc][dc][db][ed][df][dg][dh]
+PL[B]C[Knowing the principles in "The Endgame" from the Elementary Go Series, is a must for every serious go player. What is the best endgame move in the corner?
+
+Black plays.
+
+Source:
+The Endgame, Chap. 5, pp. 102-103
+Tomoko Ogawa & James Davies, Ishi Press]
+(;B[ac]C[Wrong.
+Black wants to prevent White from making a sente hane down the left side. But this hane is not a good way to solve that problem.
+
+White can simply block at the triangled position. Black is back to the original problem, but White has eliminated the bad aji in the corner.]TR[ab])
+(;B[ad]C[Wrong.
+This descent is better than the hane. However, White can simply ignore this move. 
+
+Note that Black can jump to A. Unfortunately, White can even ignore this move. So Black's initial descent lacks punch. 
+
+Notice though that White cannot block Black's jump to A with B. Taking the other 2-1 point at C, Black would force a ko for the entire corner.]LB[ba:C]LB[ab:A]LB[ac:B])
+(;B[ab]C[The correct tesuji. Now Black has a forcing follow-up. 
+
+Play A to see what happens, if White blocks. Play B to see what happens, if White tenukis.]LB[ac:A]LB[jj:B](;W[ac]LB[ad:A];B[ad]C[Correct.
+This is sente. White cannot ignore the descent, since Black would fight a ko for the whole corner at the triangled position.]TR[ba])
+(;W[jj]C[What would you play now? A or B?]LB[ac:A]LB[ad:B](;B[ac]C[Wrong.
+Yep. This is sente now.])
+(;B[ad]C[Wrong.
+Nope. White simply ignores this move.])
+)
+)
+)

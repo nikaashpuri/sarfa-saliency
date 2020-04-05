@@ -1,0 +1,20 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10444]
+GN[AGA Problems of the Week - 8. Destroying an Eye]
+AW[qs][qr][qq][rq][sq][qp][qo][rn][rm][rl]
+AB[rp][ro][pr][or][op][pp][on][qn][qm][ql][qk][rk][sk]
+PL[B]C[Strong players will see the correct sequence instantly. The rest may need to read out a couple of sequences. 
+
+Black to play.]
+(;B[sl];W[sn]C[Destroying White's 2nd eye by simply pushing in looks good, but White's block here is an unpleasant surprise.];B[sm];W[so]C[Black captures the stones, but White has this classic tesuji.];B[sp];W[rn]C[Wrong.
+White's <a href="https://senseis.xmp.net/?UnderTheStones">under-the-stones</a> play makes a 2nd eye.])
+(;B[sn];W[so]C[Your hane is the correct move order.]TR[sn](;B[sl];W[sp];B[ro];W[rp];B[sm]C[Correct.
+Correct!
+
+Black is left with one eye and is dead.])
+(;B[sm];W[sl]C[Going for the double snapback here?];B[sn];W[sp];B[ro];W[rp]C[Wrong.
+... Unfortunately it does not work. Black is left with nothing.])
+)
+(;B[sm];W[sn]C[White's block here is an unpleasant surprise.];B[sl];W[so]C[Black captures the stones, but White has this classic tesuji.];B[sp];W[rn]C[Wrong.
+White's <a href="https://senseis.xmp.net/?UnderTheStones">under-the-stones</a> play makes a 2nd eye.])
+)

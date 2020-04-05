@@ -1,0 +1,35 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10495]
+GN[AGA Problems of the Week - 13. Practical Endgame II]
+AW[qb][qc][rd][re][rf][oc][od]
+AB[pb][ob][mc][lc][qd][qe][qf][of][mf]
+PL[W]C[In this follow-up problem from the excellent book, "The Endgame" in the Elementary Go Series, White has to find the best way to save the 2 stones.
+
+White plays.
+
+Source:
+The Endgame, Chap. 5, p. 105
+Tomoko Ogawa & James Davies, Ishi Press]
+(;W[pc];B[nb]C[Wrong.
+The obvious move is simply to connect, which is also forcing.
+
+Black will protect here, after which the sente play at the triangled position to reduce White's corner is Black's privilege.
+
+This result is not satisfactory for White.]TR[qa])
+(;W[nb];B[nc]C[Sacrificing a stone here is the tesuji. Now finish it.](;W[pc];B[mb]C[Correct.
+Excellent. Black can no longer hane at the triangled position to reduce White's corner.]TR[qa])
+(;W[pa];B[mb](;W[oa];B[na]C[Wrong.
+Now A and B are miai.
+
+This result is not satisfactory for White.]LB[qa:A]LB[pc:B])
+(;W[na];B[ma];W[pc];B[oa]C[Wrong.
+The play at the triangled position is sente for Black and gote for White. 
+
+This result is not satisfactory for White.]TR[qa])
+(;W[pc];B[na]C[Correct.
+Excellent. White played the hane at the triangled position while keeping sente.]TR[pa])
+)
+)
+(;W[pd];B[nb]C[Empty triangle?];W[pc];B[qa]C[Wrong.
+Black can reduce White's corner big time. This result is not satisfactory for White.])
+)

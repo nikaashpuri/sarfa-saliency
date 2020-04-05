@@ -1,0 +1,54 @@
+(;FF[4]GM[1]SZ[13]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10]
+GN[Life And Death Problems :) - Life And Death]
+AW[db][eb][fb][fc][df][de][dd][cg][cc][bc][ac][bd]
+AB[ab][bb][cb][da][dc][ec][ed][ee][ef][dg][cf]
+PL[B]C[Save the Marked Stones]
+TR[ab]TR[bb]TR[cb](;B[be];W[ba](;B[cd];W[ca](;B[ad]C[Correct.
+Solved])
+(;B[aa];W[ca](;B[ad]C[Correct.
+Solved])
+(;B[ba];W[ca]C[Wrong.
+Wrong Answer])
+)
+)
+(;B[ce];W[ca](;B[cd];W[aa]C[Wrong.
+Wrong])
+(;B[aa];W[ca]C[Wrong.
+Wrong Answer])
+)
+(;B[ca];W[ea](;B[cd];W[aa]C[Wrong.
+Wrong Answer])
+(;B[aa];W[ba]C[Wrong.
+Wrong Answer])
+(;B[ce];W[aa]C[Wrong.
+Wrong answer])
+)
+(;B[ad];W[ae];B[cd]C[Correct.
+Right But A16 was not necessary])
+)
+(;B[ce];W[ba];B[cd];W[ca](;B[aa];W[ca]C[Wrong.
+Wrong])
+(;B[be];W[aa]C[Wrong.
+Wrong])
+)
+(;B[cd];W[ce](;B[bf];W[be](;B[bg];W[ae]C[Wrong.
+White made two eyes. Wrong])
+(;B[ae];W[bg];B[af];W[ag]C[Wrong.
+Wrong Answer])
+)
+(;B[be];W[bf]C[Wrong.
+Wrong])
+)
+(;B[bf];W[ba];B[ce];W[ca](;B[cd];W[aa]C[Wrong.
+Wrong])
+(;B[aa];W[ca]C[Wrong.
+Wrong])
+)
+(;B[ba];W[ea];B[ce];W[ca]C[Wrong.
+Very Difficult Ko for black. Wrong])
+(;B[ca];W[ea];B[ce];W[ba];B[cd];W[aa]C[Wrong.
+Wrong])
+(;B[aa];W[ca];B[ba];W[ca]C[Wrong.
+Wrong])
+)

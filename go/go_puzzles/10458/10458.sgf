@@ -1,0 +1,35 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10458]
+GN[AGA Problems of the Week - 11. Best Sequence]
+AW[cq][dq][eq][ep][fo][go][gp][jo][jq]
+AB[fq][fp][eo][dp][fn][gn][ho][en]
+PL[B]C[What is Black's best local sequence?
+
+HINT for kyu rank players: The goal is to cut off the two white stones at K3 and K5 while protecting against the cut at H6. 
+
+Source:
+Go World #21, pp. 55-6]
+(;B[hp];W[gq]C[This is a forcing move...](;B[hq];W[fr]C[Wrong.
+... after White captures, White has both the connection with A and the cut at B.
+
+Black can do better.
+
+However, sacrificing was the right idea.]LB[hn:B]LB[hr:A])
+(;B[hr];W[hq]C[Wrong.
+This looks sad for Black.])
+)
+(;B[hq];W[gq]C[This is a forcing move...];B[fr];W[gr]C[Excellent. Black sacrifices a third stone for an extra liberty.](;B[hr];W[er]C[Now Black can force here in sente. No choice for White.];B[hp];W[fs]C[Correct.
+After protecting the cut at the triangled position, Black is satisfied.]TR[im])
+(;B[hp];W[hr];B[ir];W[er];B[hs];W[fs]C[Wrong.
+... after White captures, White has two cuts at the triangles positions. Black can not prevent both. 
+
+Black can do better.]TR[hn]TR[iq])
+)
+(;B[gq];W[hp]C[This is a forcing move...];B[ip];W[hq]C[Loose ladder?];B[iq];W[hr]C[White has both the connection with A and the cut at B. Black can not prevent both. 
+
+Black can do better.]LB[io:B]MA[fp]MA[fq]MA[gq]LB[ir:A])
+(;B[fr];W[hq]C[Wrong.
+Nope. 
+
+Think again.]MA[fp]MA[fq]MA[fr])
+)

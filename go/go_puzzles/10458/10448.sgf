@@ -1,0 +1,24 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10448]
+GN[AGA Problems of the Week - 10. Varsatility]
+AW[rd][qf]
+AB[rc][pd][nd][pj]
+PL[W]C[By sliding into the corner, White has a plan to create a base on the right side. Normally, Black would have played on the 3-3 point, instead of the attachment. But with the marked attachment, Black forces White to make a choice.
+
+White to play.
+
+What is White's response to the marked attachment?
+
+Source:
+American Go Journal, v35 #4, p. 46
+(originally from Go Review X, 8 (Aug 1970), pp. 24-28)
+Making Bad Shape, Rin Kaiho 9p]
+TR[rc](;W[qc];B[qd]C[Changing plans to hane here is the only possible play.]TR[qc];W[rb];B[re];W[sc];B[qe]C[Correct.
+White captures a stone, and Black cuts off the marked stone.
+
+But this exchange benefits White more. White's good ponnuki shape is already alive, so White has kept sente.
+
+Notice that this position is similar to the very common one in which White invades at the 3-3, instead of sliding up the right side. But in that case White's corner group has to end in gote to live.]TR[qf])
+(;W[qd];B[qc];W[pe];B[od]C[Wrong.
+Continuing with this plan to make a base on the right side is unsatisfactory. Black secures the territory in the top right corner, and White's shape is still somewhat defective. Black is encouraged by this success.])
+)

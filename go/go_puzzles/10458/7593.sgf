@@ -1,0 +1,22 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/7593]
+GN[AGA Problems of the Week - 5. Tsumego Magic]
+AW[qr][ps][pq][pp][op][no][mo][lo][lp][lq][kr][jr][rn]
+AB[pn][pr][or][oq][np][mp][mq][mr][lr]
+PL[B]C[The base theme of this incredible problem appears in all the classic tsumego problem sets. Mid-dan players should instantly recognize the problem's peculiar shape. If you're a kyu player, you might want to just play through the solution for enjoyment.
+
+Play the marked position to see the solution.]
+;B[jn];W[kn]C[Black clearly doesn't have 2 eyes on the inside, so making something happen on the outside is the only possibility.];B[qq](;W[rr]C[Simply extending doesn't work.];B[rq]C[Now White has a liberty shortage.];W[rp];B[ls];W[ns];B[nr];W[os];B[ms]C[Correct.
+White dies.])
+(;W[rq]C[White can try to capture the cutting stone directly.
+
+Now White does not hava the corner liberty shortage, so what can Black do?!];B[qp];W[qo](;B[rr];W[rp];B[rs]C[A fantastic move.](;W[ls];B[qs];W[qq];B[sr]C[Correct.
+Black makes the 2nd eye on the corner point!])
+(;W[qs];B[os];W[qq];B[ls]C[Correct.
+Black lives.])
+(;W[qq];B[ls];W[ns];B[nr];W[os];B[qs]C[Correct.])
+)
+(;B[rp]C[Mistake.];W[rr]C[Wrong.
+White can simply connect without creating a corner liberty shortage. Black dies.])
+)
+)

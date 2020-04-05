@@ -1,0 +1,4 @@
+# Use following commands to run and make the movie
+python3 make_movie.py --prefix atari --checkpoint strong.40.tar --first_frame 350 --env Pong-v0
+python3 make_movie.py --prefix atari --checkpoint strong.40.tar --first_frame 200 --env SpaceInvaders-v0
+python3 make_movie.py --prefix atari --checkpoint strong.40.tar --first_frame 1700 --env Breakout-v0

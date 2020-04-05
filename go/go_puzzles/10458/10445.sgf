@@ -1,0 +1,31 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10445]
+GN[AGA Problems of the Week - 9. Correct Judgement]
+AW[qc][nc][ne][jc]
+AB[pd][pf][qj][oj]
+PL[B]C[What is Black's response to the marked invasion?
+
+Hint: Take into account all the stones before deciding your sequence of plays.
+
+Source:
+American Go Journal, v35 #4, p. 45
+(originally from Go Review X, 8 (Aug 1970), pp. 24-28)
+Making Bad Shape, Rin Kaiho 9p]
+CR[qc](;B[qd];W[pc]C[Wrong.
+Poor judgment. Black blocks off the upper right side, but Black needlessly gives White extra points at the top.])
+(;B[pc];W[pb]C[Pushing here 1st is correct judgment.
+
+White hanes to connect...](;B[qd];W[rb]C[Correct again! 
+
+White protects the cutting point...];B[rc];W[qb]C[Correct.
+Correct!
+
+In sente, Black secures the right side territory in conjunction with the marked stones.]TR[oj]TR[qj])
+(;B[ob];W[qb]C[Sometimes this hane is good, but not here.];B[oc]TR[ob]LB[jc:C]LB[oj:A]LB[qj:B];W[re]C[Wrong.
+Nope. 
+
+Black's upper right framework come to nothing. And Black's marked stone does not have a big influence on the top, because of White's firm position.
+
+Note that if Black did not have the stones A and B, then Black would have nothing to lose on the right side. And if the stone C was Black, then the triangled stone would have a bigger impact on the top.]TR[ob]LB[jc:C]LB[oj:A]LB[qj:B])
+)
+)

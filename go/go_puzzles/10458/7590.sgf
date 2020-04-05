@@ -1,0 +1,25 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/7590]
+GN[AGA Problems of the Week - 2. Handicap Trick Play]
+AW[pg][qf][pc]
+AB[pd][pf][of]
+PL[B]C[White's marked play is often seen in handicap games. Black can easily go wrong playing "obvious" moves.]
+(;B[oc];W[qc](;B[ob];W[re]C[Wrong.
+Incorrect. 
+
+Letting White link up is unsatisfactory.])
+(;B[qd];W[ob]C[Wrong.
+Incorrect. 
+
+Blocking here may seem ok, but after White's hane, the result is very bad for Black.]TR[qd])
+)
+(;B[qe];W[oc](;B[qg];W[lc]C[Wrong.
+Incorrect. 
+
+White's shape is good, so the marked invasion has succeeded.]TR[pc])
+(;B[mc];W[rc];B[qg]C[Correct.
+Correct!
+
+If White takes the corner, now this cut and the marked exchange satisfy Black.]TR[mc]TR[rc])
+)
+)

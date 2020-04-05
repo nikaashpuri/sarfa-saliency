@@ -1,0 +1,21 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/7591]
+GN[AGA Problems of the Week - 3. Avoiding Inefficiency]
+AW[qf][qd][pc][lc][ic]
+AB[qc][pd][nd][nc]
+PL[B]C[Black is not in any trouble, but Black does want to make the best out of the corner shape.]
+LB[pc:C]LB[qc:B]LB[qd:A](;B[pb];W[rc]C[(Note: Depending on the overall position, White might atari the marked position instead.)]TR[pe];B[oc];W[re]C[Wrong.
+Black can do better. 
+
+With the marked stone, Black is over-concentrated and has made bad shape empty triangle.]TR[oc])
+(;B[rc];W[pe];B[od];W[rd]C[Wrong.
+Black can do better. 
+
+Even the proverb, "extend after crosscut" is a mistake here, because Black is forced to make an empty triangle.])
+(;B[rd];W[qe]C[Correct 1st move. 
+
+Follow the sequence to see how it turns out.];B[qb]C[Tesuji. Now Black's marked stone does not become over-concentrated.];W[od];B[oe];W[pe];B[pb];W[ne];B[of]C[Correct.
+Correct!
+
+Black is ok -- White's stones to the right are eye-less.])
+)

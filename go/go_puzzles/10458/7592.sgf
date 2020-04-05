@@ -1,0 +1,33 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/7592]
+GN[AGA Problems of the Week - 4. Endgame 101]
+AW[ns][mr][ms][mq][kq][ro][qn][qk]
+AB[rp][qp][pp][np][nq][nr][os]
+PL[B]C[This problem is quite a bit easier than last one. But unless you've already seen this shape, you can easily go wrong.]
+TR[ms](;B[rr];W[or]C[Correct. Black simultaneously protects both the bottom and right edges. If White A, Black can block with B without having to protect a cut. And if White insists ...]LB[sp:A]LB[sq:B];B[ps];W[pr];B[qs];W[qr];B[rs]C[Correct.
+Correct!
+
+The marked three stones are dead and White has nothing.]MA[or]MA[pr]MA[qr])
+(;B[pr];W[sp];B[sq];W[so](;B[rq]C[Wrong.
+Incorrect. 
+
+White has reduced both sides of Black's corner in sente.])
+(;B[rr]C[Wrong.
+Incorrect. 
+
+White has reduced both sides of Black's corner in sente.])
+)
+(;B[or];W[sp];B[sq];W[so](;B[rq]C[Wrong.
+Incorrect. 
+
+White has reduced both sides of Black's corner in sente.])
+(;B[rr]C[Wrong.
+Incorrect. 
+
+White has reduced both sides of Black's corner in sente.])
+)
+(;B[qr];W[sp]C[Wrong.
+Incorrect. 
+
+White has reduced both sides of Black's corner in sente.])
+)

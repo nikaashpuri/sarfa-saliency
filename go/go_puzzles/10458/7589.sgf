@@ -1,0 +1,37 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/7589]
+GN[AGA Problems of the Week - 1. Corner Liberties]
+AW[rq][rp][qp][pp][qm][oq][or][nr][mr]
+AB[pr][pq][qq][oo][op][nq][mq][kq][lr]
+PL[B]C[<b>This collection features problems of many different difficulty levels. If you find the assigned difficulty is not adequate, please let me know. Also, if you spot any mistakes, please let me know, so I can quickly improve this collection. If you like this collection,
+ please show your appreciation by giving me 5 stars for each puzzle. 
+
+If this collection is liked a lot, then I will add more puzzles regularly.</b>
+
+The corner has a common liberty situation. Similar positions with slightly different liberty counts can have different statuses. But what is Black's best result here?]
+(;B[qs];W[rr]C[A stylish-looking move, but unsatisfactory here. For example...](;B[os];W[qr];B[ms];W[ps];B[pr];W[pq];B[ns];W[rs]C[Wrong.
+Black can do better.])
+(;B[ms];W[qr];B[os];W[ps];B[pr];W[pq];B[ns];W[rs]C[Wrong.
+Black can do better.])
+(;B[ns];W[qr](;B[os];W[ps];B[pr];W[ms];B[pq];W[ps];B[os];W[qq]C[Wrong.];B[ps];W[rs];B[ls];W[ns])
+(;B[ms];W[ps]C[Wrong.])
+)
+)
+(;B[ps];W[qr]C[Correct.];B[rr];W[rs](;B[ms];W[sr]C[Correct.
+Correct! 
+
+Black rescues the original corner stones. White doesn't even have a ko. Well done!])
+(;B[qs];W[sr]C[Wrong.
+Big mistake. Now Black has to fight a ko for the corner stones.])
+(;B[sr];W[os]C[Wrong.
+BIG mistake. Black loses all the corner stones.])
+(;B[os];W[sr]C[Correct.
+Correct! 
+
+Black rescues the original corner stones. White doesn't even have a ko. Well done!])
+(;B[ns];W[sr]C[Correct.
+Correct! 
+
+Black rescues the original corner stones. White doesn't even have a ko. Well done!])
+)
+)

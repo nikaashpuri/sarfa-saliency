@@ -1,0 +1,33 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10442]
+GN[AGA Problems of the Week - 6. Corner Timing]
+AW[ps][or][pr][qr][oq][pp][qp][rq]
+AB[rs][os][ns][nr][nq][np][op][po][qo][ro][rp]
+PL[B]C[This type of corner shape and theme occurs quite frequently in practice. 
+
+Black to play.]
+(;B[sr];W[sq]C[Black takes the vital point. White blocks. And now?];B[qq];W[rr]C[White can dodge here.];B[pq];W[ss]C[Wrong.
+White is happy to give up two stones for this one-move approach ko.
+
+Hint: The initial move was bad timing.]TR[sr])
+(;B[qq];W[pq]C[Correct timing for the throw-in. White can do no better than capturing.](;B[sr];W[sq]C[White blocks here.];B[rr]C[Correct.
+After Black connects, White cannot atari the 3 inside stones. With a false eye, White dies.])
+(;B[rr];W[sr]C[Wrong.
+White takes the vital point. White lives with a seki.])
+(;B[sq];W[sr];B[rr];W[sp]C[Wrong.
+White lives happily with a seki. Black can do much better.])
+)
+(;B[rr];W[sr]C[White takes the vital point.](;B[qq];W[pq]C[Wrong.
+This move does not keep White from living in seki. 
+
+Hint: The initial move was bad timing.])
+(;B[sp];W[sq];B[qq];W[pq]C[Wrong.
+This move does not keep White from living in seki. 
+
+Hint: The initial move was bad timing.])
+)
+(;B[ss];W[rr]C[Wrong.
+White has two eyes and lives.])
+(;B[sp];W[rr]C[Wrong.
+White has two eyes and lives.])
+)

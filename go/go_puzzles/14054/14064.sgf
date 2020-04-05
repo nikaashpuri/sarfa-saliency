@@ -1,0 +1,12 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/14064]
+GN[難解です。 - 難解詰碁です。]
+AW[pp][po][oo][pn][qn][rn][sn][np][mp][mq][ms][ns][ls]
+AB[ps][pq][oq][op][nq][qp][qo][sp]
+PL[W]C[無条件です。]
+;W[or](;B[pr];W[rp];B[ro];W[rq];B[qq];W[rr];B[so];W[rs]C[Correct.])
+(;B[sr];W[rs];B[pr];W[rp];B[ro];W[rq];B[qq];W[rr];B[so];W[sq]C[Correct.])
+(;B[rs];W[sr];B[pr];W[rp](;B[ro];W[rq];B[qq];W[so]C[Correct.])
+(;B[rq];W[ro];B[sq];W[qr];B[qq];W[rr]C[Correct.])
+)
+)

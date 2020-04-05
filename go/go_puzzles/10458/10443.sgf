@@ -1,0 +1,36 @@
+(;FF[4]GM[1]SZ[19]AP[online-go.com:1]
+SO[https://online-go.com/puzzle/10443]
+GN[AGA Problems of the Week - 7. Good vs. Best]
+AW[jq][kr][lr][mq][nq][oq][op][pp][pr][qq][rq][sq]
+AB[rr][nr][mr][sp][qp][rp][qo][po][oo][nn][np][mp][lp][lq]
+PL[B]C[A relatively easy problem. Of course, "easy" doesn't mean you should automatically play the 1st idea you have. ;)
+
+Black to play.]
+(;B[qr];W[or]C[Wrong.
+White is happy to capture the 2 stones to the left while Black captures 3 stones to the right in gote. 
+
+This move captures stones, but is a big mistake!]MA[qq]MA[rq]MA[sq]MA[mr]MA[nr];B[sr];W[ms];B[pq]C[Wrong.
+Black must take and white can tenuki.])
+(;B[sr];W[or];B[qr];W[ms]C[Wrong.
+White is happy to capture the 2 stones to the left while Black captures 3 stones to the right in gote. 
+
+This move captures stones, but is a big mistake!]MA[qq]MA[rq]MA[sq]MA[mr]MA[nr];B[pq]C[Wrong.
+Black must take and white can tenuki.])
+(;B[or];W[rs]C[White refuses to connect. What now?](;B[pq];W[sr]C[Wrong.
+White has two eyes and is alive.])
+(;B[qr];W[sr]C[Wrong.
+You can kill some of the stones in sente, but White is alive in the corner. Black can do better.]MA[op]MA[pp]MA[mq]MA[nq]MA[oq]TR[pq])
+(;B[ps];W[sr]C[Wrong.
+You can kill some of the stones in sente, but White is alive in the corner. Black can do better.]MA[op]MA[pp]MA[mq]MA[nq]MA[oq]TR[pq])
+(;B[qs];W[sr](;B[ss]C[Wrong.
+This is a disadvantageous ko. Black can do better.])
+(;B[pq];W[qr]C[Wrong.
+You can kill some of the stones in sente, but White is alive in the corner. Black can do better.])
+)
+(;B[sr];W[qr](;B[pq];W[ps]C[Wrong.
+You can kill some of the stones in sente, but White is alive in the corner. Black can do better.])
+(;B[ps]C[Correct.
+Correct! White runs out of liberties. Well done.])
+)
+)
+)
