@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: SARFA: Specific and Relevant Feature Attribution
+title: SARFA  
+description: Specific and Relevant Feature Attribution
 description: The problem of interpretating RL agents is important in several domains.
