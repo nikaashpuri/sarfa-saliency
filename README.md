@@ -22,7 +22,7 @@ Let's understand them one by one.
 ### Specificity
 Specificity captures whether a feature specifically impacts the action to be explained.
 
-![Specificty - 1](https://github.com/nikaashpuri/sarfa-saliency/blob/master/Images%20for%20blog:readme/Specificty%201.png)
+![Specificty - 1](https://github.com/nikaashpuri/sarfa-saliency/blob/master/Specificty%201.png)
 Consider the Chess position to be as shown. The action here (shown with the yellow arrow) is to move the white Bishop to square b6. The agent’s Q-values for the original state are shown in the top brown graph. Now, if we perturb this state by removing the white knight in the box. The agent also gives us the Q-values for the perturbed state. These are shown in the orange graph. In this position, when we remove the white knight, the agent thinks that the original move is no longer useful.
 Therefore, the white knight is specifically important to explain the move,
 
