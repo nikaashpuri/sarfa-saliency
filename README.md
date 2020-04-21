@@ -7,7 +7,7 @@ However, interpretability for RL-based agents has received significantly less at
 
 Our motivation behind this was to understand the moves made by AlphaZero - an RL agent trained to play Chess. We wanted to understand how Alphazero decides to make a particular move and what are the pieces it looks at. Current approaches for explaining RL agents did not work too well for Chess. They would either miss out on important pieces or highlight irrelevant ones. So we came up with SARFA - a perturbation based approach for generating saliency maps for black-box agents that builds on two desired properties of action-focused saliency. 
 
-![SARFA Workflow](https://github.com/nikaashpuri/sarfa-saliency/blob/master/Images%20for%20blog:readme/SARFA%20Workflow.PNG)
+![SARFA Workflow](https://github.com/nikaashpuri/sarfa-saliency/blob/master/Images%20for%20blog:readme/SARFA%20Workflow.png)
 
 SARFA captures features that are both specific and relevant to the move to be explained to generate more meaningful explanations. Let’s look at how SARFA works. We have the original state, and we have the agent’s Q-values for that state. 
 Now, we perturb a specific feature of the state - for a Chess board this could mean removing a piece, for visual input this could mean blurring around a pixel. Then, we query the agent to get the Q-values for the perturbed state as well. This gives us the Q-values of state, action pairs in both the original and the perturbed state.
