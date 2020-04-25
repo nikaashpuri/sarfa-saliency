@@ -14,7 +14,11 @@ git clone https://github.com/nikaashpuri/sarfa-saliency.git
 ```
 cd sarfa-saliency
 ```
-3. Install dependencies using pip
+3. Install minimal dependencies using pip (if you want to use SARFA with your Reinforcement Learning Models)
+```
+pip install -r requirements-minimal.txt
+```
+3. Install all dependencies using pip (if you want to use the examples included in the repository)
 ```
 pip install -r requirements.txt
 ```
