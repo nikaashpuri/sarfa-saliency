@@ -10,7 +10,18 @@ import sarfa_saliency
 
 # load your engine:
 handler = chess.uci.InfoHandler()
-engine = chess.uci.popen_engine('/Users/nikpuri/Documents/softwares/stockfish/stockfish-10-64') #give path to your engine here
+# Loading stockfish-11 engine 
+# Linux
+engine = chess.uci.popen_engine('engines/stockfish-11-linux/stockfish-11-linux/Linux/stockfish_20011801_x64')
+
+# Windows
+# engine = chess.uci.popen_engine('engines/stockfish-11-win/stockfish-11-win/Windows/stockfish_20011801_x64.exe')
+
+# Mac
+# engine = chess.uci.popen_engine('engines/stockfish-11-win/stockfish-11-mac/Mac/stockfish-11-64')
+
+# To use other engines like Leela-Chess-Zero give path to the engine and 
+
 engine.setoption({'MultiPV': 100})
 engine.info_handlers.append(handler)
 # board
