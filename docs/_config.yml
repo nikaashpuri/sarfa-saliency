@@ -17,8 +17,8 @@ title: The SARFA Saliency Project
 email: nikaashpuri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the official web page for the SARFA (Specific and Relevant Feature Attribution) Saliency algorithm.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sarfa-saliency" # the subpath of your site, e.g. /blog
+url: "https://nikaashpuri.github.io/sarfa-saliency/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NikaashPuri
 github_username: nikaashpuri 
 
