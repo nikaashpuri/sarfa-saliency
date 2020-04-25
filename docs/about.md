@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Authors
+permalink: /authors/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* Nikaash Puri (Research Scientist, Media and Data Science Research Lab, Adobe)
+[Linkedin](https://www.linkedin.com/in/nikaash-puri/)
+* Sukriti Verma (Research Scientist, Media and Data Science Research Lab, Adobe)
+[Linkedin](https://www.linkedin.com/in/sukritivermaa/)
+* Piyush Gupta (Senior Research Scientist, Media and Data Science Research Lab, Adobe)
+[Linkedin](https://www.linkedin.com/in/piyushgupta22/)
+* Dhruv Kayastha (Research Intern, Media and Data Science Research Lab, Adobe)
+[Linkedin](https://www.linkedin.com/in/dhruvkayastha/)
+* Shripad Deshmukh (Research Intern, Media and Data Science Research Lab, Adobe)
+[Linkedin](https://www.linkedin.com/in/shripad-deshmukh/)
+* Balaji Krishnamurthy (Research Head, Media and Data Science Research Lab, Adobe)
+[Linkedin](https://www.linkedin.com/in/balaji-krishnamurthy-4241695/)
+* Sameer Singh (Assistant Professor of Computer Science, University of California, Irvine)
+[Homepage](http://sameersingh.org/)
