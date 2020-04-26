@@ -316,104 +316,19 @@ def main(argv):
     network = dual_net.DualNetwork('minigo-models/models/000737-fury')		# add path to model
 
     board = np.zeros([N, N], dtype=np.int8)
-    # pos_w_con = list(replay_sgf_file('go_puzzles/14511/14511.sgf'))
 
-
-    # pos_w_con = list(replay_sgf_file('go_puzzles/10/10.sgf'))
-    # board += pos_w_con[0].position.board
-
-    # pos_w_con = list(replay_sgf_file('go_puzzles/9225/9225.sgf'))
-    # board += pos_w_con[0].position.board
-
-    # pos_w_con = list(replay_sgf_file('go_puzzles/14571/14587.sgf'))
-    # board += pos_w_con[0].position.board
-
-    # pos_w_con = list(replay_sgf_file('go_puzzles/14054/14064.sgf'))
-    # board += pos_w_con[0].position.board
+    pos_w_con = list(replay_sgf_file('go_puzzles/10458/10494.sgf')) # Loading a puzzle from go_puzzles folder 
+    board += pos_w_con[0].position.board # Setting up the board
     
-    # pos_w_con = list(replay_sgf_file('go_puzzles/10458/7592.sgf'))
-    # board += pos_w_con[0].position.board
-
-    # pos_w_con = list(replay_sgf_file('go_puzzles/10458/10458.sgf'))
-    # board += pos_w_con[0].position.board
-
-    # pos_w_con = list(replay_sgf_file('go_puzzles/10458/10495.sgf'))
-    # board += pos_w_con[0].position.board
-    
-
-    pos_w_con = list(replay_sgf_file('go_puzzles/10458/10494.sgf'))
-    board += pos_w_con[0].position.board
-    
-    # pos_w_con = list(replay_sgf_file('go_puzzles/10458/7593.sgf'))
-    # board += pos_w_con[0].position.board
-
+	# Let's add new pieces from another puzzle
     pos_w_con = list(replay_sgf_file('go_puzzles/14511/14515.sgf'))
     board += pos_w_con[0].position.board
-
-    # pos_w_con = list(replay_sgf_file('go_puzzles/10458/7589.sgf'))
-    # board += pos_w_con[0].position.board
-    
-
-
-
-
-    # for i in pos_w_con:
-    #     print(i.position)
-    # board[5, 7] = -1
-    # board[6][7] = -1
-    # board[8][4:6] = -1
-    # board[3][8] = -1
-    # board[5][3] = -1
-
-    # board[[11,12,13],:] = 0
-    pos = Position(board = board)
-    # board = board + pos_w_con[0].position.board
-    # print(pos)
-    # board[0][3] = -1
-    # board[0][4] = 1
-    
-    # board[1][1] = -1
-    # board[1][3] = -1
-    # board[1][4] = 1
-
-    # board[2][0] = -1
-    # board[2, 2] = -1
-    # board[2,3:5] = 1
-
-    # board[3, 0:2] = -1
-    # board[3, [2, 4]] = 1
-
-    # board[4, 0] = -1
-    # board[4, [1, 3]] = 1
-
-    # board[5, :3] = 1 
-    
-    # snap back
-    # board = np.zeros([19, 19], dtype=np.int8)
-    # board[0, 2] = 1
-    # board[0, [5,6]] = -1
-    # board[1][[1,5]] = 1
-    # board[1][[2,3,4,6]] = -1
-    # board[2][[0, 2,3,4,5]] = 1
-    # board[[2,3], 6] = -1
-
-
-
-    # Noise 
-    # board[2,-2] = 1
-    # # board[4, 11] = -1
-    # board[5, 15] = 1
-    # board[8, 15] = -1
-    # board[10, -1] = 1
-    # # board[12, 10] = -1
-    # # board[12, 13] = 1
-    # board[17, 16] = -1
-
-    # board[abs(board)==1] *= -1	# to invert the board colors
-
+	
+	# Load the board position
     pos = Position(board = board)
     print(pos)
-    # simulate(network, board, steps=10)
+	
+	# Generate saliency maps, see results folder
     play_network(network, board)
 
 if __name__ == '__main__':
