@@ -1,12 +1,53 @@
 ---
 layout: post
-title:  "SARFA - Specific and Relevant Feature Attribution"
+title:  "Specific and Relevant Feature Attribution (SARFA)"
 date:   2020-04-25 17:01:20 +0530
 categories: jekyll update
 ---
-# SARFA
-Link to the paper - [SARFA paper](https://arxiv.org/abs/1912.12191)
-### Specific and Relevant Feature Attribution
+<style>
+.button {
+  background-color: #eeeeee;
+  box-shadow: 0 5px 0 #2a7ae2;
+  color: black;
+  padding: 0.5em 1em;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 5px;
+  border-color: black;
+}
+
+.button-left {
+  border-radius: 5px 0px 0px 5px;
+}
+
+.button:hover {
+  background-color: #cccccc;
+  text-decoration: none;
+}
+
+.button:active {
+  box-shadow: none;
+  top: 5px;
+}
+</style>
+
+Published in ICLR 2020 as _"Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution"_.
+
+* [Nikaash Puri](https://www.linkedin.com/in/nikaash-puri/), Adobe
+* [Sukriti Verma](https://www.linkedin.com/in/sukritivermaa/), Adobe
+* [Piyush Gupta](https://www.linkedin.com/in/piyushgupta22/), Adobe
+* [Dhruv Kayastha](https://www.linkedin.com/in/dhruvkayastha/), Indian Institute of Technology Kharagpur
+* [Shripad Deshmukh](https://www.linkedin.com/in/shripad-deshmukh/), Indian Institute of Technology Madras
+* [Balaji Krishnamurthy](https://www.linkedin.com/in/balaji-krishnamurthy-4241695/), Adobe
+* [Sameer Singh](http://sameersingh.org/), University of California, Irvine
+
+<a href="https://arxiv.org/abs/1912.12191" class="button">ArXiv</a>
+<a href="https://arxiv.org/pdf/1912.12191.pdf" class="button">PDF</a>
+<a href="https://openreview.net/forum?id=SJgzLkBKPB" class="button">OpenReview</a>
+<a href="https://github.com/nikaashpuri/sarfa-saliency" class="button">Code+Data</a>
+
+
 Deep learning has achieved success in various domains such as image classification, machine translation, image captioning, and deep Reinforcement Learning (RL). To explain and interpret the predictions made by these complex, black-box systems,  
 various gradient and perturbation techniques have been introduced for image classification and deep sequential models.
 
