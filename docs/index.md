@@ -43,9 +43,9 @@ Welcome to the webpage for the ICLR 2020 SARFA Saliency paper.
 * [Piyush Gupta](https://www.linkedin.com/in/piyushgupta22/), Adobe
 * [Dhruv Kayastha](https://www.linkedin.com/in/dhruvkayastha/), Indian Institute of Technology Kharagpur
 * [Shripad Deshmukh](https://www.linkedin.com/in/shripad-deshmukh/), Indian Institute of Technology Madras
+* [Arhan Misra](https://www.linkedin.com/mwlite/in/arhan-misra-6001481b8), Technical Research Contributor, Intern
 * [Balaji Krishnamurthy](https://www.linkedin.com/in/balaji-krishnamurthy-4241695/), Adobe
 * [Sameer Singh](http://sameersingh.org/), University of California, Irvine
-* [Arhan Misra](https://www.linkedin.com/mwlite/in/arhan-misra-6001481b8), Technical Research Contributor, Adobe Intern
 
 <a href="https://arxiv.org/abs/1912.12191" class="button">ArXiv</a>
 <a href="https://arxiv.org/pdf/1912.12191.pdf" class="button">PDF</a>
